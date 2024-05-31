@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SaPg5imSbO6D2A6CUtUfMwU9HBKW3Jqws/TDyrWKIn/Lhd1e+eVYJ3B65azHS+3dxMSKhSCJG82OA+6SjXBnwg==",
+  "success": true,
+  "projectFilePath": "/Users/nickolayiliev/Desktop/AreanGame/ArenaGame/ArenaGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/nickolayiliev/.nuget/packages/microsoft.netcore.app.ref/6.0.27/microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "/Users/nickolayiliev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.27/microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
